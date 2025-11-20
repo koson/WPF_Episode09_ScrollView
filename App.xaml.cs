@@ -1,6 +1,6 @@
 using System.Windows;
 
-namespace WpfDemoTemplate
+namespace WPF_Episode09_ScrollView
 {
     public partial class App : System.Windows.Application
     {
