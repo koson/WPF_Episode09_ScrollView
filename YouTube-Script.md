@@ -680,7 +680,7 @@ PageRight()
 ## Code Examples Repository
 
 Source code สำหรับ Episode นี้สามารถดาวน์โหลดได้ที่:
-- GitHub: [WPF_Episode09_ScrollViewer](https://github.com/koson/WPF_Episode09_ScrollViewer)
+- GitHub: [WPF_Episode09_ScrollView](https://github.com/koson/WPF_Episode09_ScrollView)
 
 ---
 
